@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Live Scores</string>
+    <!--<string name="API_key">2cf87087d7ab410282c0cae640c17701</string> -->
+    <string name="search_for_images">search for images</string>
+</resources>
